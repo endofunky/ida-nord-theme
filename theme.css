@@ -674,3 +674,14 @@ TChooser
     qproperty-highlight-bg-default: #BF616A;
     qproperty-highlight-bg-selected: #B48EAD;
 }
+
+text_area_t
+{
+    qproperty-keyword1-fg: #81A1C1;
+    qproperty-keyword2-fg: #8FBCBB;
+    qproperty-keyword3-fg: #88C0D0;
+    qproperty-string-fg: #A3BE8C;
+    qproperty-comment-fg: #5f6c85;
+    qproperty-number-fg: #D8DEE9;
+    qproperty-preprocessor-fg: #5E81AC;
+}
