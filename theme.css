@@ -555,10 +555,10 @@ CustomIDAMemo
     qproperty-line-fg-charlit-in-insn: #A3BE8C;
     qproperty-line-fg-numlit-in-insn: #ABB2BF;
     qproperty-line-fg-void-opnd: #B48EAD;
-    qproperty-line-fg-code-xref: #5F6C85;
-    qproperty-line-fg-data-xref: #5F6C85;
-    qproperty-line-fg-code-xref-to-tail: #5F6C85;
-    qproperty-line-fg-data-xref-to-tail: #5F6C85;
+    qproperty-line-fg-code-xref: #81A1C1;
+    qproperty-line-fg-data-xref: #A3BE8C;
+    qproperty-line-fg-code-xref-to-tail: #81A1C1;
+    qproperty-line-fg-data-xref-to-tail: #A3BE8C;
     qproperty-line-fg-error: #B48EAD;
     qproperty-line-fg-opcode-byte: #5F6C85;
     qproperty-line-fg-extra-line: #5f6c85;
