@@ -540,6 +540,9 @@ QDialogButtonBox
 
 CustomIDAMemo
 {
+    qproperty-line-fg-patched-bytes: #BF616A;
+    qproperty-line-fg-unsaved-changes: #EBCB8B;
+
     qproperty-line-fg-default: #5f6c85;
     qproperty-line-fg-regular-comment: #5f6c85;
     qproperty-line-fg-repeatable-comment: #5f6c85;
