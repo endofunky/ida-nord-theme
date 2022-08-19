@@ -628,6 +628,9 @@ TextArrows
     qproperty-jump-in-function: #AAA99F;
     qproperty-jump-external-to-function: #81A1C1;
     qproperty-jump-under-cursor: #93AFCF;
+    qproperty-jump-target: #A3BE8C;
+    qproperty-register-target: #D08770;
+    qproperty-bpt-possible: #88C0D0;
 }
 
 navband_t
